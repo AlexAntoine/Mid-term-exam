@@ -17,140 +17,152 @@ namespace FerryFloatiesAndBoats
         protected double _serviceSpeed;
         protected string _homePort;
 
-        public bool setPassengerCap()
+        public bool setPassengerCap(string s)
         {
-           /*
-            * take string input, verifiy it is an integers,
-            * if true assign to passengerCap property and return true,
-            * if false return false
-            */
+           
+
+            if (int.TryParse(s, out _))
+            {
+                _passengerCap = int.Parse(s);
+                return true;
+            }
+            else
+                return false;
         }
 
         public string getPassengerCap()
         {
-           /*
-            * return passengerCap property as a string 
-            */
+            
+            return _passengerCap.ToString();
         }
 
-        public bool setAutoCap()
+        public bool setAutoCap(string s)
         {
-            /*
-            * take string input, verifiy it is an integers,
-            * if true assign to autoCap property and return true,
-            * if false return false
-            */
+          
+            if (int.TryParse(s, out _))
+            {
+                _autoCap = int.Parse(s);
+                return true;
+            }
+            else
+                return false;
         }
 
         public string getAutoCap()
         {
-            /*
-           * return autoCap property as a string 
-           */
+            return _autoCap.ToString();
         }
 
-        public bool setLength()
+        public bool setLength(string s)
         {
-            /*
-            * take string input, verifiy it is an integers,
-            * if true assign to length property and return true,
-            * if false return false
-            */
+         
+
+            if (int.TryParse(s, out _))
+            {
+                _length = int.Parse(s);
+                return true;
+            }
+            else
+                return false;
         }
 
         public string getLength()
         {
-            /*
-           * return length property as a string 
-           */
+            return _length.ToString();
         }
 
-        public bool setDraft()
+        public bool setDraft(string s)
         {
-            /*
-            * take string input, verifiy it is an integers,
-            * if true assign to draft property and return true,
-            * if false return false
-            */
+           
+
+            if (int.TryParse(s, out _))
+            {
+                _draft = int.Parse(s);
+                return true;
+            }
+            else
+                return false;
         }
 
         public string getDraft()
         {
-            /*
-           * return draft property as a string 
-           */
+            return _draft.ToString();
         }
 
-        public bool setHomePort()
+        public bool setHomePort(string s)
         {
-           /*
-            * assign input to homeport property and return true
-            */
+            _homePort = s;
+            return true;
         }
 
         public string getHomePort()
         {
-           //return homeport property
+            return _homePort;
         }
 
-        public bool setFerryName()
+        public bool setFerryName(string s)
         {
-            /*
-           * assign input to ferryName property and return true
-           */
+          
+            _FerryName = s;
+            return true;
         }
 
         public string getFerryName()
         {
-            //return FerryName property
+            return _FerryName;
         }
 
-        public bool setServiceSpeed()
+        public bool setServiceSpeed(string s)
         {
-            /*
-            * take string input, verifiy it is a double,
-            * if true assign to serviceSpeed property and return true,
-            * if false return false
-            */
+            
+
+            if (double.TryParse(s, out _))
+            {
+               _serviceSpeed = double.Parse(s);
+                return true;
+            }
+            else
+                return false;
         }
 
         public string getServiceSpeed()
         {
-            /*
-        * return serviceSpeed property as a string 
-        */
+            return _serviceSpeed.ToString();
         }
 
-        public bool setWidth()
+        public bool setWidth(string s)
         {
-            /*
-            * take string input, verifiy it is an integers,
-            * if true assign to width property and return true,
-            * if false return false
-            */
+
+            if (int.TryParse(s, out _))
+            {
+               _width = int.Parse(s);
+                return true;
+            }
+            else
+                return false;
         }
 
         public string getWidth()
         {
-            /*
-           * return width property as a string 
-           */
+            return _width.ToString();
         }
 
-        public bool setHp()
+        public bool setHp(string s)
         {
-            /*
-             * take string input, verifiy it is an integers,
-             * if true assign to hp property and return true,
-             * if false return false
-             */
+            
+
+            if (int.TryParse(s, out _))
+            {
+                _hp = int.Parse(s);
+                return true;
+            }
+            else
+                return false;
         }
 
         public string getHp()
         {
-            /*
-           * return passengerCap hp property as a string 
-           */
+            return _hp.ToString();
         }
     }
 }

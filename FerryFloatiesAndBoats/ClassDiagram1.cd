@@ -1,2 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FerryFloatiesAndBoats.Ferry">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABABABQAAAEQAAAIABChAAQCFAARAAEBQAACAAIgAE=</HashCode>
+      <FileName>Ferry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FerryFloatiesAndBoats.Boats">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgABEAAAAAAAAAAAAAAAAAAAIAQAAAAAAEA=</HashCode>
+      <FileName>Boats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

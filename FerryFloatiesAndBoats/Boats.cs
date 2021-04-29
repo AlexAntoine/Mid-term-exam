@@ -4,6 +4,7 @@ using System.Text;
 
 namespace FerryFloatiesAndBoats
 {
+    //Dwayne Booth 
     public class Boats: Ferry
     {
         protected string _houseBoatName;
@@ -13,31 +14,32 @@ namespace FerryFloatiesAndBoats
         {
 
         }
-        public bool setBeds()
+        public bool setBeds(string s)
         {
-            //take input, verfie it's an integer
-            //if it is return true convert input to an int
-            //and assign it to beds property, if it is not return false
+
+            if(int.TryParse(s, out _))
+            {
+                _beds = int.Parse(s);
+                return true;
+            }
+            return false;
         }
 
         public string getBeds()
         {
-            //return beds properties as a string 
+            return _beds.ToString();
         }
 
-        public bool setHouseBoatName()
+        public bool setHouseBoatName(string s)
         {
-            /*
-             * take string input and assign it to houseBoatName property
-             * return true
-             */
+           
+            _houseBoatName = s;
+            return true;
         }
 
         public string getHouseBoatName()
         {
-            /*
-             * return houseboadname as a string
-             */
+            return _houseBoatName;
         }
     }
 }

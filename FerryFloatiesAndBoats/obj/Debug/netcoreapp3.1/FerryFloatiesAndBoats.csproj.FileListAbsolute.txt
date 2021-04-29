@@ -1,0 +1,13 @@
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\obj\Debug\netcoreapp3.1\FerryFloatiesAndBoats.csprojAssemblyReference.cache
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\obj\Debug\netcoreapp3.1\FerryFloatiesAndBoats.AssemblyInfoInputs.cache
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\obj\Debug\netcoreapp3.1\FerryFloatiesAndBoats.AssemblyInfo.cs
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\obj\Debug\netcoreapp3.1\FerryFloatiesAndBoats.csproj.CoreCompileInputs.cache
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\bin\Debug\netcoreapp3.1\FerryFloatiesAndBoats.exe
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\bin\Debug\netcoreapp3.1\FerryFloatiesAndBoats.deps.json
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\bin\Debug\netcoreapp3.1\FerryFloatiesAndBoats.runtimeconfig.json
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\bin\Debug\netcoreapp3.1\FerryFloatiesAndBoats.runtimeconfig.dev.json
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\bin\Debug\netcoreapp3.1\FerryFloatiesAndBoats.dll
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\bin\Debug\netcoreapp3.1\FerryFloatiesAndBoats.pdb
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\obj\Debug\netcoreapp3.1\FerryFloatiesAndBoats.dll
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\obj\Debug\netcoreapp3.1\FerryFloatiesAndBoats.pdb
+C:\Users\Don-Alex Antoine\Desktop\FerryFloatiesAndBoats\FerryFloatiesAndBoats\obj\Debug\netcoreapp3.1\FerryFloatiesAndBoats.genruntimeconfig.cache
