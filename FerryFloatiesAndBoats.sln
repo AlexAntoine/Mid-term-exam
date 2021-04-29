@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerryFloatiesAndBoats", "FerryFloatiesAndBoats\FerryFloatiesAndBoats.csproj", "{4164BE1C-107F-4539-8D3E-6CCAF9FC938B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FerryFloatiesAndBoats", "FerryFloatiesAndBoats\FerryFloatiesAndBoats.csproj", "{4164BE1C-107F-4539-8D3E-6CCAF9FC938B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferry And  Floats", "Ferry And  Floats\Ferry And  Floats.csproj", "{380839A2-91ED-4C97-9686-15087AED3634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4164BE1C-107F-4539-8D3E-6CCAF9FC938B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4164BE1C-107F-4539-8D3E-6CCAF9FC938B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4164BE1C-107F-4539-8D3E-6CCAF9FC938B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380839A2-91ED-4C97-9686-15087AED3634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380839A2-91ED-4C97-9686-15087AED3634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380839A2-91ED-4C97-9686-15087AED3634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380839A2-91ED-4C97-9686-15087AED3634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
